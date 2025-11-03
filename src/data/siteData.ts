@@ -8,7 +8,7 @@ export const galleryImages = [
 ];
 
 export const kits = [
-  { name: 'Kit Especial', image: 'https://d64gsuwffb70l.cloudfront.net/69011896dba3d97b4483e291_1761679572804_d13ece5f.webp', description: 'Kit básico con productos esenciales. Incluye asesoría y clase virtual.' },
+  { name: 'Kit Ecensial', image: 'https://d64gsuwffb70l.cloudfront.net/69011896dba3d97b4483e291_1761679572804_d13ece5f.webp', description: 'Kit básico con productos esenciales. Incluye asesoría y clase virtual.' },
   { name: 'Kit Profesional', image: 'https://d64gsuwffb70l.cloudfront.net/69011896dba3d97b4483e291_1761679574789_00f0f0d2.webp', description: 'Kit completo para looks profesionales con clase virtual.' },
   { name: 'Kit Premium', image: 'https://d64gsuwffb70l.cloudfront.net/69011896dba3d97b4483e291_1761679576540_652fd8ea.webp', description: 'Selección exclusiva con productos premium y asesoría completa.' },
   { name: 'Kit Novia', image: 'https://d64gsuwffb70l.cloudfront.net/69011896dba3d97b4483e291_1761679578964_da47fb1d.webp', description: 'Kit especial para novias con productos de larga duración.' },
